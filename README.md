@@ -4,6 +4,6 @@
 
 [測試](page/1/index.html)
 
-![照片](images/gallery/1.jpg)
+![照片](images/gallery/01.jpg)
 
 
