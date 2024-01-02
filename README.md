@@ -9,5 +9,7 @@
 
 [google](http://www.google.com)  
 ![](/images/gallery/1.jpg)
-'System.out.println("hello java");'
+'''
+System.out.println("hello java");
+'''
 
