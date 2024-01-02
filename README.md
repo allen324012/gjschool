@@ -18,5 +18,5 @@ fksfks'
 kasfksf'fkasdk'
 askhdak
 </p>
-<img src="" alt="2.jpg">
+<img src="/images/gallery/2.jpg" alt="2.jpg">
 
