@@ -2,6 +2,6 @@
 
 [google](https://www.google.com.tw/)
 
-[首頁](index.html)
+[首頁](page/index.html)
 
 
