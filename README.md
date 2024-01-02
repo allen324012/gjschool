@@ -19,4 +19,13 @@ kasfksf'fkasdk'
 askhdak
 </p>
 <img src="/images/gallery/2.jpg" alt="2.jpg">
+<hr>
+<table width=500 border=1 align=center>
+<tr>
+    <td>title</td>
+    <td>amount</td>
+</tr>
+
+
+</table>
 
