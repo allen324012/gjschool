@@ -1,8 +1,8 @@
 # gjSchool
-##fkdshfkjhsdkfhskhdhgkdshgkjdshgkjdhsg<br>
-###lfjdlsjflsdjflsjflsjdf<br>
-####sfjkldlsjflsdjglds<br>
-#####;kdf;lgkdf;lk;<p>
+##fkdshfkjhsdkfhskhdhgkdshgkjdshgkjdhsg
+###lfjdlsjflsdjflsjflsjdf
+####sfjkldlsjflsdjglds>
+#####;kdf;lgkdf;lk;
 
 [google](https://www.google.com.tw/)
 
