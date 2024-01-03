@@ -17,7 +17,7 @@ hkjhkjhk<br>
 ![101](pic/101.jpg)
 
 
-<table width=750>
+<table align=center>
   <tr>
     <td>Title</td>
     <td>科目</td>
