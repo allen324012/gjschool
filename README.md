@@ -31,3 +31,5 @@ hkjhkjhk<br>
   
 </table>
 
+<img alt="1.jpg" src="page/gallery/1.jpg">
+
