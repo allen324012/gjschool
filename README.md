@@ -21,7 +21,7 @@
 
 ## [文件解說](blog/index.html)
 
-![101圖](pic/101.jpg)
+![101圖](pic/101.jpg)(http://www.google.com)
 
 <ul type="disk">
 <li>台北捷運板南線</li>
