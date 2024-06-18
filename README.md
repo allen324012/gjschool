@@ -19,7 +19,7 @@ hkjhkjhk<br>
 [google](http://www.google.com)
 
 
-<table align=center border=0>
+<table align=center >
   <tr>
     <td>Title</td>
     <td>科目</td>
